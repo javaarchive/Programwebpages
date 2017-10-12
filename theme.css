@@ -1,8 +1,9 @@
 body{
-color:mintcream;
+background-color:mintcream;
 }
 
 h1{
+  background-color:limegreen;
   color:purple;
   outline-style:solid;
   outline-color:lightgreen;
@@ -11,6 +12,7 @@ h1{
   
 
 p{
+background-color:orange
 color:darkblue;
 outline-style:double;
 outline-color:powderblue;
