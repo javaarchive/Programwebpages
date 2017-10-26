@@ -17,6 +17,8 @@ h1{
 .content{
 padding: 10cm;
 background-color:greenyellow;
+outline-style:dashed;
+outline-color:black;
 }
   
 
