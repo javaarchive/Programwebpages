@@ -14,7 +14,10 @@ h1{
   outline-style:solid;
   outline-color:lightgreen;
 }
-  
+.content{
+padding: 10cm;
+background-color:greenyellow;
+}
   
 
 p{
