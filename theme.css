@@ -1,3 +1,4 @@
+
 body{
 background-color:mintcream;
 }
@@ -7,12 +8,14 @@ code {
 }
 footer { 
     display: block;
+    padding: 1cm;
 }
 h1{
   background-color:limegreen;
   color:purple;
   outline-style:solid;
   outline-color:lightgreen;
+  padding: 2cm;
 }
 .content{
 padding: 2cm;
@@ -27,4 +30,5 @@ background-color:orange;
 color:darkblue;
 outline-style:double;
 outline-color:powderblue;
+padding: 3cm;
 }
