@@ -1,23 +1,23 @@
 body{
-background-color:mintcream;
+background-color:violet;
 }
 code {
   display: block;
-  white-space: pre-wrap   
+  white-space: pre-wrap;   
 }
 footer { 
     display: block;
-    padding: 20pt;
+    padding: 5pt;
 }
 h1{
   background-color:limegreen;
   color:purple;
   outline-style:solid;
   outline-color:lightgreen;
-  padding: 20pt;
+  padding: 5pt;
 }
 .content{
-padding: 2cm;
+padding: 1cm;
 background-color:greenyellow;
 outline-style:dashed;
 outline-color:black;
@@ -29,5 +29,5 @@ background-color:orange;
 color:darkblue;
 outline-style:double;
 outline-color:powderblue;
-padding: 30pt;
+padding: 15pt;
 }
